@@ -16,6 +16,7 @@ profile: One sentence introducing yourself.
 profile_links:
   Email: "mailto:salomon.ramaroson@aims.ac.rw"
   GitHub: "https://github.com/Loramtih.github.io"
+  Linkedin: ""
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
