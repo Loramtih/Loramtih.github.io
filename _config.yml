@@ -1,13 +1,13 @@
 # Site settings
 title: Another Blog
-url: "http://loramtih.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/Loramtih" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
+email: salomon.ramaroson@aims.ac.rw
 author: Salomon Lova Tina Ramaroson
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
@@ -15,7 +15,7 @@ profile: One sentence introducing yourself.
 #github_username:  github_username
 profile_links:
   Email: "mailto:salomon.ramaroson@aims.ac.rw"
-  GitHub: "https://github.com/Loramtih"
+  GitHub: "https://github.com/Loramtih.github.io"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
